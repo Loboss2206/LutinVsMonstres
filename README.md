@@ -15,6 +15,10 @@ Le jeu utilise des fichiers texte pour définir la grille, les monstres et les m
 
 1. Clonez ce référentiel sur votre machine locale.
 
+```shell
+git clone https://github.com/Loboss2206/LutinVsMonstres.git
+```
+
 2. Placez-vous dans ce repertoire en executant cette commande dans votre terminal :
 
 ```shell
@@ -30,7 +34,12 @@ cd LutinVsMonstres
 ### Option 2 : Vous souhaitez créer votre propre fichier executable
 
 1. Assurez-vous que vous avez un compilateur C tel que GCC installé.
-2. Clonez ce référentiel sur votre machine locale.
+2. Clonez ce référentiel sur votre machine locale en faisant cette commande :
+
+```shell
+git clone https://github.com/Loboss2206/LutinVsMonstres.git
+```
+
 3. Placez-vous dans ce repertoire en executant cette commande dans votre terminal :
 
 ```shell
@@ -40,7 +49,7 @@ cd LutinVsMonstres
 4. Compilez le code en exécutant la commande
 
 ```shell
-gcc main.c fonctions.c -o main
+gcc *.c -o main
 ```
 
 5. Exécutez le jeu en utilisant cette commande dans votre terminal :
