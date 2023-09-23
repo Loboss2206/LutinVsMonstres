@@ -40,7 +40,7 @@ cd LutinVsMonstres
 4. Compilez le code en exécutant la commande
 
 ```shell
-gcc main.c fonctions.c -o main.
+gcc main.c fonctions.c -o main
 ```
 
 5. Exécutez le jeu en utilisant cette commande dans votre terminal :
